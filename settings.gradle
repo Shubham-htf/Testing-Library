@@ -1,0 +1,3 @@
+rootProject.name='MyFirstSdk'
+include ':app'
+include ':testinglibrary'
